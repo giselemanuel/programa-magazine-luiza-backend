@@ -12,14 +12,6 @@ A empresa [LuizaLabs](https://www.linkedin.com/company/luizalabs/) do grupo [Mag
 Listagem de projetos desenvolvidos durante o programa.
   + Projeto : em definição
 
-> ## Exercícios
-  + Semana 1
-  + Semana 2
-  + Semana 3
-  + Semana 4
-  + Semana 5
-
-
 >## Ementa do Curso
 + Programação Java
   + txt
@@ -39,4 +31,11 @@ Listagem de projetos desenvolvidos durante o programa.
 + Boas práticas
 + Spring
 + Boas práticas de Spring Boot
+
+> ## Exercícios
+  + Semana 1
+  + Semana 2
+  + Semana 3
+  + Semana 4
+  + Semana 5
 
