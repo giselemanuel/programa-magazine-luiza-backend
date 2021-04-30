@@ -14,23 +14,40 @@ Listagem de projetos desenvolvidos durante o programa.
 
 >## Ementa do Curso
 + Programação Java
-  + txt
-  + txt
-  + txt
+  + Representações algoritiímicas
+  + Convenções da linguagem Java
+  + Tipos primitivos
+  + Operadores Lógicos
+  + Operadores Aritiméticos
+  + Operadores Unários
+  + Operadores de Atribuições
+  + Operador ternário
+  + Operador relacional
+  + Estrutura condicional
+  + Estrutura de repetição
+  + Vetores, Matrizes e Arrays
+  + Programação Procedural
+  + Programação Orientada a Objeto
+
 + Banco de Dados
-  + txt
-  + txt
-  + txt
+  + ...
+  + ...
+  + ...
 + Git e Github
-  + txt
-  + txt
+  + ...
+  + ...
 + Cultura ágil
-  + txt
-  + txt
+  + ...
+  + ...
 + Cultura DevOps
+  + ...
+  + ...
+  + ...
+
 + Boas práticas
 + Spring
-+ Boas práticas de Spring Boot
+  + Boas práticas de Spring Boot
+  + ...
 
 > ## Exercícios
   + Semana 1
