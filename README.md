@@ -54,6 +54,5 @@ Listagem de projetos desenvolvidos durante o programa.
 + Boas práticas
 + Spring
   + Boas práticas de Spring Boot
-  + ...
 
 
