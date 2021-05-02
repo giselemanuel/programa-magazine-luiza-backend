@@ -55,8 +55,4 @@ Listagem de projetos desenvolvidos durante o programa.
   + ...
 
 + Spring
-  + Boas práticas de Spring Boot
-<<<<<<< HEAD
-
-=======
->>>>>>> f1ef2980354b5818f6ead98ef5f84c01535a29b8
+  + ...
