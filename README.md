@@ -41,18 +41,53 @@ Listagem de projetos desenvolvidos durante o programa.
   + Versionamento de código
 
 + Banco de Dados
-  + ...
-  + ...
-  + ...
+  + O que é um Banco de Dados
+  + MySQL: Instalando e configurando
+  + Sistema de Gerenciamento de Banco de Dados (SGBD)
+  + Como criar tabelas de modo visual
+  + Entidades e atributos
+  + Tipos de dados
+  + A linguagem SQL
+  + Modelagem e normalização de dados
+  + Tabela associativa e exercício
+  + Criação de tabela na prática
+  + Inserção, atualização e exclusão dados
+  + Seleção de dados
+  + Junção de dados
+  + O comando union
+  + Paginação e agrupamento de dados
+  + Ordenação e indexação de dados
+  + Criação de tabelas por linha de comando
+  + Criação de views
+
 
 + Cultura ágil
-  + ...
-  + ...
+  + Introdução Scrum Completo
+  + Introdução Cultura Ágil
+  + Agilidade
+  + Manifesto Ágil
+  + Introção ao Scrum
+  + Equipe Scrum
+  + Estudo de Caso
+  + Product Goal
+  + Product Backlog
+  + Product Backlog Konyu
+  + Estimativas
+  + Kano Model
+  + Defitition of Done
+  + Sprint Planning
+  + Sprint Execution
+  + Sprint Review + Retro
+  + Sprint Review + Sprint Retro
+  + Kanban
+  + XP  
+  
   
 + Cultura DevOps
   + ...
   + ...
-  + ...
+
 
 + Spring
+  + ...
   + ...
