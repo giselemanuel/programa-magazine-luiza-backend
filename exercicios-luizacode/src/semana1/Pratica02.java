@@ -1,6 +1,3 @@
-package primeiroprograma;
-import java.util.Scanner;
-
 /*
 Programa calcula IMC
 1) Solicitar peso do usuário
@@ -16,19 +13,21 @@ II - marginalmente acima do peso 25,9 a 27,3
 IV - acima do peso ideal 27,4 a 32,3
 V - obeso > 32,4
  */
+package semana1;
 
-public class CalculaIMC {
+import java.util.Scanner;
 
+public class Pratica02 {
     public static void main(String[] args) {
-        // cabeçalho do programa -------------------------------------------------------------------------------------------
+        // cabeçalho do programa ---------------------------------------------------------------------------------------
         System.out.println("\n******************************************");
         System.out.print("              CALCULA IMC\n");
         System.out.println("******************************************");
 
-        // instancia do objeto teclado para receber o input do usuário -----------------------------------------------------
+        // instância do objeto teclado para receber o input do usuário -------------------------------------------------
         Scanner teclado = new Scanner(System.in); // criação de um objeto
 
-        // solicita nome, peso e altura do usuário -------------------------------------------------------------------------
+        // solicita nome, peso e altura do usuário ---------------------------------------------------------------------
         System.out.print("Informe seu nome: ");
         String nome = teclado.nextLine();
         System.out.print("Informe seu peso: ");
@@ -36,13 +35,13 @@ public class CalculaIMC {
         System.out.print("Informe sua altura ");
         float altura = teclado.nextFloat();
 
-        // calcula imc -----------------------------------------------------------------------------------------------------
+        // calcula imc -------------------------------------------------------------------------------------------------
         float imc = peso / (altura * altura);
 
-        //exibe resultado do IMC -------------------------------------------------------------------------------------------
+        //exibe resultado do IMC ---------------------------------------------------------------------------------------
         System.out.format("--\nOlá %s,\nSeu IMC é %.2f", nome, imc);
 
-        // estrutura condicional que verifica categoria do IMC -------------------------------------------------------------
+        // estrutura condicional que verifica categoria do IMC ---------------------------------------------------------
         //abaixo do peso < 19,1
         if(imc < 19.1){
             System.out.format("\nVocê esta abaixo do peso.");
@@ -65,3 +64,4 @@ public class CalculaIMC {
         }
     }
 }
+

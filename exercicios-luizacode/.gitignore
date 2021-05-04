@@ -3,6 +3,8 @@
 out/
 .idea/misc.xml
 .idea/modules.xml
+src/aula_s2
+src/aula_s1
 
 # para o documento
 exercicios-luizacode.iml

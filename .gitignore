@@ -1,2 +1,10 @@
-# para todos os arquivos e sub-arquivos da pasta .idea/
+# para todos os arquivos e subarquivos nas pastas
 .idea/
+out/
+.idea/misc.xml
+.idea/modules.xml
+src/aula_s2
+src/aula_s1
+
+# para o documento
+exercicios-luizacode.iml
