@@ -95,7 +95,5 @@ public class Main {
                 pedido.verificarCompra();
                 break;
         }
-        // chamada de métodos ------------------------------------------------------------------------------------------
-        
     }
 }
