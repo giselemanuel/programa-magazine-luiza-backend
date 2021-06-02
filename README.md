@@ -17,7 +17,7 @@ A empresa [LuizaLabs](https://www.linkedin.com/company/luizalabs/) do grupo [Mag
 
 > ## Projetos
 Listagem de projetos desenvolvidos durante o programa.
-  + ![Projeto : API REST - Wishlist](https://github.com/giselemanuel/projeto-luizacode.git)
+  + [Projeto : API REST - Wishlist](https://github.com/giselemanuel/projeto-luizacode.git)
 
 >## Ementa do Curso
 + Programação Java
