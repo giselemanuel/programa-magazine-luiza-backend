@@ -35,6 +35,7 @@ Listagem de projetos desenvolvidos durante o programa.
   + Vetores, Matrizes e Arrays
   + Programação Procedural
   + Programação Orientada a Objeto
+  + Spring Boot
 
 + Git e Github
   + O que é Git e Github
@@ -81,13 +82,5 @@ Listagem de projetos desenvolvidos durante o programa.
   + Sprint Review + Sprint Retro
   + Kanban
   + XP  
+  + Spotify
   
-  
-+ Cultura DevOps
-  + ...
-  + ...
-
-
-+ Spring
-  + ...
-  + ...
